@@ -1,5 +1,5 @@
 # Windows-Auto-brightness
-Created an auto-brightness system for Windows computers using Python.
+Created an auto-brightness system for Windows computers using Python.\n
 
 Technologies used:
   • opencv-python: OpenCV is the backbone of the project, enabling me to capture webcam frames and perform sophisticated image processing, crucial for accurate light analysis. 
